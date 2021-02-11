@@ -1,1 +1,0 @@
-# Tuberculosis-Detection-Modified-VGG16
