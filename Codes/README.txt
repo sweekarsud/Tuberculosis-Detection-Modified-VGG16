@@ -18,7 +18,7 @@ This code removes black border, resizes, centering and whitening of input images
 is proc_data/ folder using input data/ folder. 
 
 2) data_augmentation.py : This python file corresponds to the data-augmentation code employed in this work.
-It takes the images generated after pre-processing in proc_data/ and generates the output folder new_aug_dir/
+It takes the images generated after pre-processing in proc_data/ and generates the output folder new_aug_dir/
 for both training and testing.
 
 3) baseline_vgg16.py : This python file corresponds to the baseline model employed in this work with 
