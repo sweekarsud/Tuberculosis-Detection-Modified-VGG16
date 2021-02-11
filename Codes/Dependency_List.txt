@@ -1,0 +1,101 @@
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main
+_tflow_select             2.1.0                       gpu    anaconda
+absl-py                   0.9.0                    py36_0    anaconda
+asn1crypto                1.3.0                    py36_0    anaconda
+astor                     0.8.0                    py36_0    anaconda
+blas                      1.0                         mkl    anaconda
+blinker                   1.4                      py36_0    anaconda
+c-ares                    1.15.0            h7b6447c_1001    anaconda
+ca-certificates           2020.1.1                      0    anaconda
+cachetools                3.1.1                      py_0    anaconda
+certifi                   2020.4.5.1               py36_0    anaconda
+cffi                      1.14.0           py36h2e261b9_0    anaconda
+chardet                   3.0.4                 py36_1003    anaconda
+click                     7.1.1                      py_0    anaconda
+cryptography              2.8              py36h1ba5d50_0    anaconda
+cudatoolkit               10.1.243             h6bb024c_0    anaconda
+cudnn                     7.6.5                cuda10.1_0    anaconda
+cupti                     10.1.168                      0    anaconda
+cycler                    0.10.0                   pypi_0    pypi
+decorator                 4.4.2                    pypi_0    pypi
+gast                      0.2.2                    py36_0    anaconda
+google-auth               1.13.1                     py_0    anaconda
+google-auth-oauthlib      0.4.1                      py_2    anaconda
+google-pasta              0.2.0                      py_0    anaconda
+grpcio                    1.27.2           py36hf8bcb03_0    anaconda
+h5py                      2.10.0           py36h7918eee_0    anaconda
+hdf5                      1.10.4               hb1b8bf9_0    anaconda
+idna                      2.9                        py_1    anaconda
+imageio                   2.8.0                    pypi_0    pypi
+intel-openmp              2020.0                      166    anaconda
+joblib                    0.14.1                   pypi_0    pypi
+keras-applications        1.0.8                      py_0    anaconda
+keras-base                2.3.1                    py36_0    anaconda
+keras-gpu                 2.3.1                         0    anaconda
+keras-preprocessing       1.1.0                      py_1    anaconda
+keras-vis                 0.4.1                    pypi_0    pypi
+kiwisolver                1.2.0                    pypi_0    pypi
+ld_impl_linux-64          2.33.1               h53a641e_7
+libedit                   3.1.20181209         hc058e9b_0
+libffi                    3.2.1                hd88cf55_4
+libgcc-ng                 9.1.0                hdf63c60_0
+libgfortran-ng            7.3.0                hdf63c60_0    anaconda
+libprotobuf               3.11.4               hd408876_0    anaconda
+libstdcxx-ng              9.1.0                hdf63c60_0
+markdown                  3.1.1                    py36_0    anaconda
+matplotlib                3.2.1                    pypi_0    pypi
+mkl                       2019.4                      243    anaconda
+mkl-service               2.3.0            py36he904b0f_0    anaconda
+mkl_fft                   1.0.15           py36ha843d7b_0    anaconda
+mkl_random                1.1.0            py36hd6b4f25_0    anaconda
+ncurses                   6.2                  he6710b0_0
+networkx                  2.4                      pypi_0    pypi
+numpy                     1.18.1           py36h4f9e942_0    anaconda
+numpy-base                1.18.1           py36hde5b4d6_1    anaconda
+oauthlib                  3.1.0                      py_0    anaconda
+opencv-python             4.2.0.34                 pypi_0    pypi
+openssl                   1.1.1g               h7b6447c_0    anaconda
+opt_einsum                3.1.0                      py_0    anaconda
+pandas                    1.0.3                    pypi_0    pypi
+pillow                    7.1.2                    pypi_0    pypi
+pip                       20.0.2                   py36_1
+protobuf                  3.11.4           py36he6710b0_0    anaconda
+pyasn1                    0.4.8                      py_0    anaconda
+pyasn1-modules            0.2.7                      py_0    anaconda
+pycparser                 2.20                       py_0    anaconda
+pyjwt                     1.7.1                    py36_0    anaconda
+pyopenssl                 19.1.0                   py36_0    anaconda
+pyparsing                 2.4.7                    pypi_0    pypi
+pysocks                   1.7.1                    py36_0    anaconda
+python                    3.6.10               hcf32534_1
+python-dateutil           2.8.1                    pypi_0    pypi
+pytz                      2020.1                   pypi_0    pypi
+pywavelets                1.1.1                    pypi_0    pypi
+pyyaml                    5.3.1            py36h7b6447c_0    anaconda
+readline                  8.0                  h7b6447c_0
+requests                  2.23.0                   py36_0    anaconda
+requests-oauthlib         1.3.0                      py_0    anaconda
+rsa                       4.0                        py_0    anaconda
+scikit-image              0.16.2                   pypi_0    pypi
+scikit-learn              0.22.2.post1             pypi_0    pypi
+scipy                     1.4.1            py36h0b6359f_0    anaconda
+setuptools                46.1.3                   py36_0
+six                       1.14.0                   py36_0    anaconda
+sklearn                   0.0                      pypi_0    pypi
+sqlite                    3.31.1               h62c20be_1
+tensorboard               2.1.0                     py3_0    anaconda
+tensorflow                2.1.0           gpu_py36h2e5cdaa_0    anaconda
+tensorflow-base           2.1.0           gpu_py36h6c5654b_0    anaconda
+tensorflow-estimator      2.1.0              pyhd54b08b_0    anaconda
+tensorflow-gpu            2.1.0                h0d30ee6_0    anaconda
+termcolor                 1.1.0                    py36_1    anaconda
+tk                        8.6.8                hbc83047_0
+tqdm                      4.45.0                   pypi_0    pypi
+urllib3                   1.25.8                   py36_0    anaconda
+werkzeug                  1.0.1                      py_0    anaconda
+wheel                     0.34.2                   py36_0
+wrapt                     1.12.1           py36h7b6447c_1    anaconda
+xz                        5.2.5                h7b6447c_0
+yaml                      0.1.7                h96e3832_1    anaconda
+zlib                      1.2.11               h7b6447c_3
