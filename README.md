@@ -9,9 +9,7 @@ This folder GitHub repository consists of the following files:
 1) Codes/ : This folder contains all the codes employed in this project work. A detailed README 
 explaining each of the code files is present in Codes/ folder.
 
-2) Related_Work_Papers/ : This folder contains all the relevant papers referred in this project consid-
-ering the pattern recognition approach and related works in data. The papers have been named by the fi-
-rst author's last name and work. The detailed information of where the paper has been employed and how 
+2) Related_Work_Papers/ : This folder contains all the relevant papers referred in this project considering the pattern recognition approach and related works in data. The papers have been named by the first author's last name and work. The detailed information of where the paper has been employed and how 
 can be found in the references part of the report.
 
 In addition, we have also included the report and the PPT for the reader's reference.
